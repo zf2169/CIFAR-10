@@ -1,6 +1,7 @@
 # CIFAR-10
 image classification on CIFAR-10 datatsets using CNN
 1. 9-layer CNN - test accuracy 67%
+![](..\lib\main_graph.png)
 2. inception-v3 model, recomputing the bottlenecks and retraining the last layer - test accuracy 81.5%
 
 ```
