@@ -9,4 +9,5 @@ lib -- all the graphs
        
 doc -- python notebook contain the cnn model code
        the final report(pdf)
+       transfer-learning-project.py contains functions to facilitate fine-tuning an inception mode
 ```
