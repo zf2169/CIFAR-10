@@ -10,8 +10,5 @@ lib -- all the graphs
 doc -- python notebook contain the cnn model code
        the final report(pdf)
        transfer-learning-project.py contains functions to facilitate fine-tuning an inception mode
-       
-data -- two image dataset
-            one in Python version(for CNN model)
-            one in image version(for inception-v3 model)
 ```
+Python version dataset can be downloaded at https://www.cs.toronto.edu/~kriz/cifar.html
