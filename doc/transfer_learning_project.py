@@ -1,5 +1,4 @@
-""" Utility code for the fine-tuning homework.
-
+""" 
 This file contains convenience functions to facilitate
 fine-tuning an inception model. If you wish to understand
 all the details, you may wish to read through the file.
